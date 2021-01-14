@@ -15,6 +15,7 @@
 		"editorGroupHeader.tabsBackground": "#151414",
 		"editorLineNumber.activeForeground": "#fff",
 		"editorLineNumber.foreground": "#999",
+		"focusBorder": "#959290",
 		"list.activeSelectionBackground": "#b3d4fc44",
 		"list.activeSelectionForeground": "#fff",
 		"list.hoverBackground": "#b3d4fc22",
