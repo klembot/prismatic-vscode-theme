@@ -11,6 +11,7 @@
 		"editor.background": "#252424",
 		"editor.foreground": "#fff",
 		"editor.selectionBackground": "#b3d4fc44",
+		"editorCursor.foreground": "#fff",
 		"editorGroupHeader.tabsBackground": "#151414",
 		"editorLineNumber.activeForeground": "#fff",
 		"editorLineNumber.foreground": "#999",
