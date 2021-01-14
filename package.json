@@ -1,0 +1,26 @@
+{
+	"name": "prismatic",
+	"displayName": "Prismatic",
+	"description": "",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.47.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Prismatic Light",
+				"uiTheme": "vs",
+				"path": "./themes/prismatic-light.json"
+			},
+			{
+				"label": "Prismatic Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/prismatic-dark.json"
+			}
+		]
+	}
+}
