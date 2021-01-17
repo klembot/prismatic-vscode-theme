@@ -8,6 +8,8 @@
 		"activityBar.inactiveForeground": "#999",
 		"activityBarBadge.background": "#fff",
 		"activityBarBadge.foreground": "#252424",
+		"badge.background": "#ffffff",
+		"badge.foreground": "#252424",
 		"editor.background": "#252424",
 		"editor.foreground": "#fff",
 		"editor.selectionBackground": "#b3d4fc44",
