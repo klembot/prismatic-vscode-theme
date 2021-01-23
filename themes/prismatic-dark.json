@@ -32,7 +32,7 @@
 		"statusBar.background": "#151414",
 		"statusBar.border": "#282727",
 		"statusBar.debuggingBackground": "#e05c77",
-		"statusBar.foreground": "#999",
+		"statusBar.foreground": "#fff",
 		"statusBar.noFolderBackground": "#151414",
 		"tab.border": "#00000000",
 		"tab.activeForeground": "#fff",
