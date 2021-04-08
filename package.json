@@ -25,6 +25,11 @@
 				"label": "Prismatic Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/prismatic-dark.json"
+			},
+			{
+				"label": "Prismatic Ash",
+				"uiTheme": "vs-dark",
+				"path": "./themes/prismatic-ash.json"
 			}
 		]
 	}
