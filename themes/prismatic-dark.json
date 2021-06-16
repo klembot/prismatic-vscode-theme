@@ -42,6 +42,7 @@
 		"tab.activeForeground": "#ddd",
 		"tab.inactiveBackground": "#151414",
 		"tab.inactiveForeground": "#777",
+		"terminal.selectionBackground": "#b3d4fc44",
 		"titleBar.activeBackground": "#151414",
 		"titleBar.inactiveBackground": "#151414",
 		"titleBar.border": "#282727"
