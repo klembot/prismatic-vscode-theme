@@ -4,6 +4,7 @@
 	"description": "A theme for Visual Studio Code that takes Prism.js's default color scheme as direct inspiration",
 	"version": "1.0.0",
 	"license": "MIT",
+	"publisher": "cklimas",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/klembot/prismatic-vscode-theme.git"
