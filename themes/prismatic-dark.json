@@ -51,14 +51,14 @@
 			"name": "Attribute Names, Strings",
 			"scope": ["entity.other.attribute-name.html", "string"],
 			"settings": {
-				"foreground": "#ad4"
+				"foreground": "#A0BE63"
 			}
 		},
 		{
 			"name": "Attribute Values",
 			"scope": ["string.quoted.double.html"],
 			"settings": {
-				"foreground": "#30a9dd"
+				"foreground": "#539bba"
 			}
 		},
 		{
@@ -78,14 +78,14 @@
 				"support.type.property-name.css"
 			],
 			"settings": {
-				"foreground": "#d49"
+				"foreground": "#BE6396"
 			}
 		},
 		{
 			"name": "Class Names, Functions",
 			"scope": ["entity.name.function", "entity.name.type.class"],
 			"settings": {
-				"foreground": "#d49"
+				"foreground": "#BE6396"
 			}
 		},
 		{
@@ -98,14 +98,14 @@
 				"variable.language.this"
 			],
 			"settings": {
-				"foreground": "#30a9dd"
+				"foreground": "#539bba"
 			}
 		},
 		{
 			"name": "Operators",
 			"scope": ["keyword.operator"],
 			"settings": {
-				"foreground": "#a27641"
+				"foreground": "#8F7454"
 			}
 		},
 		{
@@ -132,7 +132,7 @@
 				"tag"
 			],
 			"settings": {
-				"foreground": "#ad4"
+				"foreground": "#539bba"
 			}
 		}
 	]
