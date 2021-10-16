@@ -20,6 +20,7 @@
 		"editorGroupHeader.tabsBackground": "#e5e2e0",
 		"editorLineNumber.activeForeground": "#000",
 		"editorLineNumber.foreground": "#999",
+		"editorLink.activeForeground": "#07a",
 		"editorWidget.background": "#e5e2e0",
 		"focusBorder": "#959290",
 		"list.activeSelectionBackground": "#b3d4fc88",
@@ -61,6 +62,8 @@
 		"terminal.ansiBrightRed": "#550000",
 		"terminal.ansiBrightWhite": "#fff",
 		"terminal.ansiBrightYellow": "#80541f",
+		"textLink.activeForeground": "#07a",
+		"textLink.foreground": "#07a",
 		"titleBar.activeBackground": "#e5e2e0",
 		"titleBar.inactiveBackground": "#e5e2e0",
 		"titleBar.border": "#dad7d5"
