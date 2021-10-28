@@ -13,6 +13,8 @@
 		"button.background": "#999",
 		"button.hoverBackground": "#000",
 		"button.foreground": "#e5e2e0",
+		"diffEditor.insertedTextBackground": "#66990030",
+		"diffEditor.removedTextBackground": "#99062430",
 		"editor.background": "#f5f2f0",
 		"editor.foreground": "#000000",
 		"editor.selectionBackground": "#b3d4fc88",
