@@ -2,7 +2,7 @@
 	"name": "prismatic",
 	"displayName": "Prismatic",
 	"description": "A theme for Visual Studio Code that takes Prism.js's default color scheme as direct inspiration",
-	"version": "1.8.0",
+	"version": "1.8.1",
 	"license": "MIT",
 	"publisher": "cklimas",
 	"repository": {
