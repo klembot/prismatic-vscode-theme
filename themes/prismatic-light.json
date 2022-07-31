@@ -89,100 +89,101 @@
 		"titleBar.border": "#dad7d5"
 	},
 	"tokenColors": [
-		{
-			"name": "Attribute Names, Strings",
-			"scope": ["entity.other.attribute-name.html", "string"],
-			"settings": {
-				"foreground": "#690"
-			}
-		},
-		{
-			"name": "Attribute Values",
-			"scope": ["string.quoted.double.html"],
-			"settings": {
-				"foreground": "#07a"
-			}
-		},
-		{
-			"name": "Comments",
-			"scope": ["comment", "punctuation.definition.comment"],
-			"settings": {
-				"foreground": "#708090"
-			}
-		},
-		{
-			"name": "Constants, JSON Properties, Tag Names",
-			"scope": [
-				"constant",
-				"entity.name.tag",
-				"property",
-				"support.type.property-name.json",
-				"support.type.property-name.css"
-			],
-			"settings": {
-				"foreground": "#905"
-			}
-		},
-		{
-			"name": "Class Names, Functions",
-			"scope": ["entity.name.function", "entity.name.type.class"],
-			"settings": {
-				"foreground": "#905"
-			}
-		},
-		{
-			"name": "Keywords",
-			"scope": [
-				"keyword",
-				"keyword.operator.new",
-				"storage.modifier",
-				"storage.type",
-				"variable.language.this"
-			],
-			"settings": {
-				"foreground": "#07a"
-			}
-		},
-		{
-			"name": "Operators",
-			"scope": ["keyword.operator"],
-			"settings": {
-				"foreground": "#c49863"
-			}
-		},
-		{
-			"name": "Property",
-			"scope": ["property", "support.type.property-name.css"],
-			"settings": {
-				"foreground": "#905"
-			}
-		},
-		{
-			"name": "Punctuation",
-			"scope": ["meta.brace.round", "punctuation"],
-			"settings": {
-				"foreground": "#999"
-			}
-		},
-		{
-			"name": "Resets",
-			"scope": ["constant.numeric.css", "keyword.other.unit", "variable"],
-			"settings": {
-				"foreground": "#000"
-			}
-		},
-		{
-			"name": "Selectors, Tags",
-			"scope": [
-				"entity.name.tag.css",
-				"entity.other.attribute-name.class.css",
-				"entity.other.attribute-name.id.css",
-				"punctuation.definition.entity.css",
-				"tag"
-			],
-			"settings": {
-				"foreground": "#690"
-			}
-		}
-	]
+    {
+      "name": "Attribute Names, Strings",
+      "scope": ["entity.other.attribute-name.html", "string"],
+      "settings": {
+        "foreground": "#690"
+      }
+    },
+    {
+      "name": "Attribute Values",
+      "scope": ["string.quoted.double.html"],
+      "settings": {
+        "foreground": "#07a"
+      }
+    },
+    {
+      "name": "Comments",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#708090"
+      }
+    },
+    {
+      "name": "Constants, JSON Properties, Tag Names",
+      "scope": [
+        "constant",
+        "entity.name.tag",
+        "property",
+        "support.type.property-name.json",
+        "support.type.property-name.css"
+      ],
+      "settings": {
+        "foreground": "#905"
+      }
+    },
+    {
+      "name": "Class Names, Functions",
+      "scope": ["entity.name.function", "entity.name.type.class"],
+      "settings": {
+        "foreground": "#905"
+      }
+    },
+    {
+      "name": "Keywords, Headings",
+      "scope": [
+        "entity.name.section.markdown",
+        "keyword",
+        "keyword.operator.new",
+        "storage.modifier",
+        "storage.type",
+        "variable.language.this"
+      ],
+      "settings": {
+        "foreground": "#07a"
+      }
+    },
+    {
+      "name": "Operators",
+      "scope": ["keyword.operator"],
+      "settings": {
+        "foreground": "#c49863"
+      }
+    },
+    {
+      "name": "Property",
+      "scope": ["property", "support.type.property-name.css"],
+      "settings": {
+        "foreground": "#905"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": ["meta.brace.round", "punctuation"],
+      "settings": {
+        "foreground": "#999"
+      }
+    },
+    {
+      "name": "Resets",
+      "scope": ["constant.numeric.css", "keyword.other.unit", "variable"],
+      "settings": {
+        "foreground": "#000"
+      }
+    },
+    {
+      "name": "Selectors, Tags",
+      "scope": [
+        "entity.name.tag.css",
+        "entity.other.attribute-name.class.css",
+        "entity.other.attribute-name.id.css",
+        "punctuation.definition.entity.css",
+        "tag"
+      ],
+      "settings": {
+        "foreground": "#690"
+      }
+    }
+  ]
 }

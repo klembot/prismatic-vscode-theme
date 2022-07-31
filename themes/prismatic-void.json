@@ -91,93 +91,94 @@
 		"titleBar.border": "#282727"
 	},
 	"tokenColors": [
-		{
-			"name": "Attribute Names, Strings",
-			"scope": ["entity.other.attribute-name.html", "string"],
-			"settings": {
-				"foreground": "#A0BE63"
-			}
-		},
-		{
-			"name": "Attribute Values",
-			"scope": ["string.quoted.double.html"],
-			"settings": {
-				"foreground": "#539bba"
-			}
-		},
-		{
-			"name": "Comments",
-			"scope": ["comment", "punctuation.definition.comment"],
-			"settings": {
-				"foreground": "#708090"
-			}
-		},
-		{
-			"name": "Constants, JSON Properties, Tag Names",
-			"scope": [
-				"constant",
-				"entity.name.tag",
-				"property",
-				"support.type.property-name.json",
-				"support.type.property-name.css"
-			],
-			"settings": {
-				"foreground": "#BE6396"
-			}
-		},
-		{
-			"name": "Class Names, Functions",
-			"scope": ["entity.name.function", "entity.name.type.class"],
-			"settings": {
-				"foreground": "#BE6396"
-			}
-		},
-		{
-			"name": "Keywords",
-			"scope": [
-				"keyword",
-				"keyword.operator.new",
-				"storage.modifier",
-				"storage.type",
-				"variable.language.this"
-			],
-			"settings": {
-				"foreground": "#339bba"
-			}
-		},
-		{
-			"name": "Operators",
-			"scope": ["keyword.operator"],
-			"settings": {
-				"foreground": "#8F7454"
-			}
-		},
-		{
-			"name": "Punctuation",
-			"scope": ["meta.brace.round", "punctuation"],
-			"settings": {
-				"foreground": "#777"
-			}
-		},
-		{
-			"name": "Resets",
-			"scope": ["constant.numeric.css", "keyword.other.unit", "variable"],
-			"settings": {
-				"foreground": "#aaa"
-			}
-		},
-		{
-			"name": "Selectors, Tags",
-			"scope": [
-				"entity.name.tag.css",
-				"entity.other.attribute-name.class.css",
-				"entity.other.attribute-name.id.css",
-				"punctuation.definition.entity.css",
-				"tag"
-			],
-			"settings": {
-				"foreground": "#539bba"
-			}
-		}
-	]
+    {
+      "name": "Attribute Names, Strings",
+      "scope": ["entity.other.attribute-name.html", "string"],
+      "settings": {
+        "foreground": "#A0BE63"
+      }
+    },
+    {
+      "name": "Attribute Values",
+      "scope": ["string.quoted.double.html"],
+      "settings": {
+        "foreground": "#539bba"
+      }
+    },
+    {
+      "name": "Comments",
+      "scope": ["comment", "punctuation.definition.comment"],
+      "settings": {
+        "foreground": "#708090"
+      }
+    },
+    {
+      "name": "Constants, JSON Properties, Tag Names",
+      "scope": [
+        "constant",
+        "entity.name.tag",
+        "property",
+        "support.type.property-name.json",
+        "support.type.property-name.css"
+      ],
+      "settings": {
+        "foreground": "#BE6396"
+      }
+    },
+    {
+      "name": "Class Names, Functions",
+      "scope": ["entity.name.function", "entity.name.type.class"],
+      "settings": {
+        "foreground": "#BE6396"
+      }
+    },
+    {
+      "name": "Keywords, Headings",
+      "scope": [
+        "entity.name.section.markdown",
+        "keyword",
+        "keyword.operator.new",
+        "storage.modifier",
+        "storage.type",
+        "variable.language.this"
+      ],
+      "settings": {
+        "foreground": "#339bba"
+      }
+    },
+    {
+      "name": "Operators",
+      "scope": ["keyword.operator"],
+      "settings": {
+        "foreground": "#8F7454"
+      }
+    },
+    {
+      "name": "Punctuation",
+      "scope": ["meta.brace.round", "punctuation"],
+      "settings": {
+        "foreground": "#777"
+      }
+    },
+    {
+      "name": "Resets",
+      "scope": ["constant.numeric.css", "keyword.other.unit", "variable"],
+      "settings": {
+        "foreground": "#aaa"
+      }
+    },
+    {
+      "name": "Selectors, Tags",
+      "scope": [
+        "entity.name.tag.css",
+        "entity.other.attribute-name.class.css",
+        "entity.other.attribute-name.id.css",
+        "punctuation.definition.entity.css",
+        "tag"
+      ],
+      "settings": {
+        "foreground": "#539bba"
+      }
+    }
+  ]
 }
