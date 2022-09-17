@@ -96,17 +96,10 @@
   },
   "tokenColors": [
     {
-      "name": "Attribute Names, Strings",
-      "scope": ["entity.other.attribute-name.html", "string"],
+      "name": "Attribute Values, Strings",
+      "scope": ["string.quoted.double.html", "string"],
       "settings": {
         "foreground": "#A0BE63"
-      }
-    },
-    {
-      "name": "Attribute Values",
-      "scope": ["string.quoted.double.html"],
-      "settings": {
-        "foreground": "#539bba"
       }
     },
     {
@@ -175,7 +168,10 @@
       "name": "Selectors, Tags",
       "scope": [
         "entity.name.tag.css",
+        "entity.name.tag.html",
+        "entity.name.tag.wildcard.css",
         "entity.other.attribute-name.class.css",
+        "entity.other.attribute-name.html",
         "entity.other.attribute-name.id.css",
         "punctuation.definition.entity.css",
         "tag"

@@ -96,17 +96,10 @@
   },
   "tokenColors": [
     {
-      "name": "Attribute Names, Strings",
-      "scope": ["entity.other.attribute-name.html", "string"],
+      "name": "Attribute Values, Strings",
+      "scope": ["string.quoted.double.html", "string"],
       "settings": {
         "foreground": "#690"
-      }
-    },
-    {
-      "name": "Attribute Values",
-      "scope": ["string.quoted.double.html"],
-      "settings": {
-        "foreground": "#07a"
       }
     },
     {
@@ -117,10 +110,11 @@
       }
     },
     {
-      "name": "Constants, JSON Properties, Tag Names",
+      "name": "Attribute Names, Constants, JSON Properties, Tag Names",
       "scope": [
         "constant",
         "entity.name.tag",
+        "entity.other.attribute-name",
         "property",
         "support.type.property-name.json",
         "support.type.property-name.css"
@@ -182,13 +176,16 @@
       "name": "Selectors, Tags",
       "scope": [
         "entity.name.tag.css",
+        "entity.name.tag.html",
+        "entity.name.tag.wildcard.css",
         "entity.other.attribute-name.class.css",
+        "entity.other.attribute-name.html",
         "entity.other.attribute-name.id.css",
         "punctuation.definition.entity.css",
         "tag"
       ],
       "settings": {
-        "foreground": "#690"
+        "foreground": "#07a"
       }
     }
   ]
