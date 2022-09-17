@@ -56,6 +56,7 @@
     "notificationsWarningIcon.foreground": "#c49863",
     "panel.background": "#e5e2e0",
     "panel.border": "#dad7d5",
+    "progressBar.background": "#000",
     "quickInput.background": "#f5f2f0",
     "sideBar.background": "#e5e2e0",
     "sideBar.border": "#dad7d5",
