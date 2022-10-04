@@ -110,10 +110,11 @@
       }
     },
     {
-      "name": "Constants, JSON Properties, Tag Names",
+      "name": "Attribute Names, Constants, JSON Properties, Tag Names",
       "scope": [
         "constant",
         "entity.name.tag",
+        "entity.other.attribute-name",
         "property",
         "support.type.property-name.json",
         "support.type.property-name.css"

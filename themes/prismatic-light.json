@@ -152,13 +152,6 @@
       }
     },
     {
-      "name": "Property",
-      "scope": ["property", "support.type.property-name.css"],
-      "settings": {
-        "foreground": "#905"
-      }
-    },
-    {
       "name": "Punctuation",
       "scope": ["meta.brace.round", "punctuation"],
       "settings": {
