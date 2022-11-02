@@ -96,6 +96,13 @@
   },
   "tokenColors": [
     {
+      "name": "Attribute Names",
+      "scope": ["entity.other.attribute-name"],
+      "settings": {
+        "foreground": "#dd4a68"
+      }
+    },
+    {
       "name": "Attribute Values, Strings",
       "scope": ["string.quoted.double.html", "string"],
       "settings": {
@@ -110,7 +117,7 @@
       }
     },
     {
-      "name": "Attribute Names, Constants, JSON Properties, Tag Names",
+      "name": "Constants, JSON Properties, Tag Names",
       "scope": [
         "constant",
         "entity.name.tag",
