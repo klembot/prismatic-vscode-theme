@@ -121,7 +121,6 @@
       "scope": [
         "constant",
         "entity.name.tag",
-        "entity.other.attribute-name",
         "property",
         "support.type.property-name.json",
         "support.type.property-name.css"
