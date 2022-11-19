@@ -10,7 +10,7 @@
     "url": "https://github.com/klembot/prismatic-vscode-theme.git"
   },
   "engines": {
-    "vscode": "^1.47.0"
+    "vscode": "^1.47.1"
   },
   "categories": [
     "Themes"

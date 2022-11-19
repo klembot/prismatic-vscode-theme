@@ -99,7 +99,7 @@
       "name": "Attribute Names",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#dd4a68"
+        "foreground": "#bf3f59"
       }
     },
     {
