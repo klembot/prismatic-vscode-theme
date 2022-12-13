@@ -152,6 +152,27 @@
       }
     },
     {
+      "name": "Markup Changed",
+      "scope": ["markup.changed"],
+      "settings": {
+        "foreground": "#c49863"
+      }
+    },
+    {
+      "name": "Markup Deleted",
+      "scope": ["markup.deleted"],
+      "settings": {
+        "foreground": "#990624"
+      }
+    },
+    {
+      "name": "Markup Inserted",
+      "scope": ["markup.inserted"],
+      "settings": {
+        "foreground": "#690"
+      }
+    },
+    {
       "name": "Operators",
       "scope": ["keyword.operator"],
       "settings": {
