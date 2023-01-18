@@ -104,8 +104,8 @@
       }
     },
     {
-      "name": "Attribute Values, Strings",
-      "scope": ["string.quoted.double.html", "string"],
+      "name": "Attribute Values, Constants, Strings",
+      "scope": ["constant", "string.quoted.double.html", "string"],
       "settings": {
         "foreground": "#A0BE63"
       }
@@ -118,9 +118,8 @@
       }
     },
     {
-      "name": "Constants, JSON Properties, Tag Names",
+      "name": ", JSON Properties, Tag Names",
       "scope": [
-        "constant",
         "entity.name.tag",
         "property",
         "support.type.property-name.json",
