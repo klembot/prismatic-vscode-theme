@@ -207,6 +207,13 @@
       "settings": {
         "foreground": "#07a"
       }
+    },
+    {
+      "name": "Tag Attributes",
+      "scope": ["entity.other.attribute-name.html"],
+      "settings": {
+        "foreground": "#38aba5"
+      }
     }
   ]
 }
