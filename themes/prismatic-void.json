@@ -74,6 +74,7 @@
     "tab.activeForeground": "#aaa",
     "tab.inactiveBackground": "#000",
     "tab.inactiveForeground": "#777",
+    "tab.selectedBorderTop": "#00000000",
     "terminal.selectionBackground": "#b3d4fc44",
     "terminal.ansiBlack": "#000",
     "terminal.ansiBlue": "#317998",
