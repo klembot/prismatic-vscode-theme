@@ -33,5 +33,6 @@
         "path": "./themes/prismatic-void.json"
       }
     ]
-  }
+  },
+  "icon": "icon.png"
 }

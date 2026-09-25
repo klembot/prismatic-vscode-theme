@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="Artboard1" x="0" y="0" width="128" height="128" style="fill:none;"/>
+    <g id="Artboard11" affinity:id="Artboard1">
+        <g transform="matrix(1.2,0,0,1.2,-175,5)">
+            <path d="M240.5,5C242.984,5 245,7.016 245,9.5L245,90.5C245,92.984 242.984,95 240.5,95L159.5,95C157.016,95 155,92.984 155,90.5L155,9.5C155,7.016 157.016,5 159.5,5L240.5,5Z"/>
+        </g>
+        <g transform="matrix(1.2,0,0,1.2,-176,4)">
+            <path d="M240.5,5C242.984,5 245,7.016 245,9.5L245,90.5C245,92.984 242.984,95 240.5,95L159.5,95C157.016,95 155,92.984 155,90.5L155,9.5C155,7.016 157.016,5 159.5,5L240.5,5Z" style="fill:rgb(245,242,240);"/>
+            <clipPath id="_clip1">
+                <path d="M240.5,5C242.984,5 245,7.016 245,9.5L245,90.5C245,92.984 242.984,95 240.5,95L159.5,95C157.016,95 155,92.984 155,90.5L155,9.5C155,7.016 157.016,5 159.5,5L240.5,5Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip1)">
+                <g transform="matrix(1.111111,0,0,2.633333,145,-89.333333)">
+                    <rect x="9" y="60" width="81" height="10" style="fill:rgb(0,119,170);"/>
+                </g>
+                <g transform="matrix(1.111111,0,0,2.7,145,-112)">
+                    <rect x="9" y="60" width="81" height="10" style="fill:rgb(56,171,165);"/>
+                </g>
+                <g transform="matrix(1.111111,0,0,2.55,145,-119.5)">
+                    <rect x="9" y="60" width="81" height="10" style="fill:rgb(102,153,0);"/>
+                </g>
+                <g transform="matrix(1.111111,0,0,2.466667,145,-131.666667)">
+                    <rect x="9" y="60" width="81" height="10" style="fill:rgb(153,0,85);"/>
+                </g>
+                <g transform="matrix(1.111111,0,0,1.8,145,-103)">
+                    <rect x="9" y="60" width="81" height="10" style="fill:rgb(191,63,89);"/>
+                </g>
+                <path d="M155,95L155,5L212,95L155,95" style="fill:rgb(245,242,240);"/>
+            </g>
+        </g>
+    </g>
+</svg>
