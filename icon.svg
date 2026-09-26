@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <rect id="Artboard1" x="0" y="0" width="128" height="128" style="fill:none;"/>
-    <g id="Artboard11" affinity:id="Artboard1">
-        <g transform="matrix(1.2,0,0,1.2,-175,5)">
-            <path d="M240.5,5C242.984,5 245,7.016 245,9.5L245,90.5C245,92.984 242.984,95 240.5,95L159.5,95C157.016,95 155,92.984 155,90.5L155,9.5C155,7.016 157.016,5 159.5,5L240.5,5Z"/>
-        </g>
-        <g transform="matrix(1.2,0,0,1.2,-176,4)">
-            <path d="M240.5,5C242.984,5 245,7.016 245,9.5L245,90.5C245,92.984 242.984,95 240.5,95L159.5,95C157.016,95 155,92.984 155,90.5L155,9.5C155,7.016 157.016,5 159.5,5L240.5,5Z" style="fill:rgb(245,242,240);"/>
-            <clipPath id="_clip1">
-                <path d="M240.5,5C242.984,5 245,7.016 245,9.5L245,90.5C245,92.984 242.984,95 240.5,95L159.5,95C157.016,95 155,92.984 155,90.5L155,9.5C155,7.016 157.016,5 159.5,5L240.5,5Z"/>
-            </clipPath>
-            <g clip-path="url(#_clip1)">
-                <g transform="matrix(1.111111,0,0,2.633333,145,-89.333333)">
-                    <rect x="9" y="60" width="81" height="10" style="fill:rgb(0,119,170);"/>
-                </g>
-                <g transform="matrix(1.111111,0,0,2.7,145,-112)">
-                    <rect x="9" y="60" width="81" height="10" style="fill:rgb(56,171,165);"/>
-                </g>
-                <g transform="matrix(1.111111,0,0,2.55,145,-119.5)">
-                    <rect x="9" y="60" width="81" height="10" style="fill:rgb(102,153,0);"/>
-                </g>
-                <g transform="matrix(1.111111,0,0,2.466667,145,-131.666667)">
-                    <rect x="9" y="60" width="81" height="10" style="fill:rgb(153,0,85);"/>
-                </g>
-                <g transform="matrix(1.111111,0,0,1.8,145,-103)">
-                    <rect x="9" y="60" width="81" height="10" style="fill:rgb(191,63,89);"/>
-                </g>
-                <path d="M155,95L155,5L212,95L155,95" style="fill:rgb(245,242,240);"/>
+<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:affinity="https://www.affinity.studio/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.984375,0,0,0.984375,1,1)">
+        <path d="M115.2,0C122.265,0 128,5.735 128,12.8L128,115.2C128,122.265 122.265,128 115.2,128L12.8,128C5.735,128 0,122.265 0,115.2L0,12.8C0,5.735 5.735,0 12.8,0L115.2,0Z" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <path d="M115.2,0C122.265,0 128,5.735 128,12.8L128,115.2C128,122.265 122.265,128 115.2,128L12.8,128C5.735,128 0,122.265 0,115.2L0,12.8C0,5.735 5.735,0 12.8,0L115.2,0Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <g transform="matrix(1.60533,0,0,3.250794,-15.463845,-98.539683)">
+                <rect x="9" y="60" width="81" height="10" style="fill:rgb(0,119,170);"/>
+            </g>
+            <g transform="matrix(1.60533,0,0,3.250794,-15.463845,-131.047619)">
+                <rect x="9" y="60" width="81" height="10" style="fill:rgb(56,171,165);"/>
+            </g>
+            <g transform="matrix(1.60533,0,0,3.250794,-15.463845,-163.555556)">
+                <rect x="9" y="60" width="81" height="10" style="fill:rgb(153,0,85);"/>
+            </g>
+            <g transform="matrix(1.60533,0,0,3.250794,-15.463845,-196.063492)">
+                <rect x="9" y="60" width="81" height="10" style="fill:rgb(191,63,89);"/>
+            </g>
+            <g transform="matrix(1.219048,0,0,1.219048,-179.809524,3.047619)">
+                <path d="M146.667,103.333L146.667,-3.333L213.333,103.333L146.667,103.333Z" style="fill:rgb(245,242,240);"/>
             </g>
         </g>
+        <path d="M115.2,0C122.265,0 128,5.735 128,12.8L128,115.2C128,122.265 122.265,128 115.2,128L12.8,128C5.735,128 0,122.265 0,115.2L0,12.8C0,5.735 5.735,0 12.8,0L115.2,0Z" style="fill:none;stroke:black;stroke-width:2.03px;"/>
     </g>
 </svg>
